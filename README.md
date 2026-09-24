@@ -57,4 +57,7 @@ The figure below compares the reference melting point values with the values pre
 
 ## References
 
-References used in this project will be provided here.
+1) Yang, K., Swanson, K., Jin, W., Coley, C., Eiden, P., Gao, H., Guzman-Perez, A., Hopper, T., Kelley, B., Mathea, M., Palmer, A., Settels, V., Jaakkola, T., Jensen, K. and Barzilay, R. (2019). Analyzing Learned Molecular Representations for Property Prediction. Journal of Chemical Information and Modeling, 59(8), pp.3370–3388. doi:10.1021/acs.jcim.9b00237.
+2) Heid, E., Greenman, K.P., Chung, Y., Li, S.-C., Graff, D.E., Vermeire, F.H., Wu, H., Green, W.H. and McGill, C.J. (2023). Chemprop: A Machine Learning Package for Chemical Property Prediction. Journal of Chemical Information and Modeling, 64(1), pp.9–17. doi:10.1021/acs.jcim.3c01250.
+3) Graff, D.E., Morgan, N.K., Burns, J.W., Doner, A.C., Li, B., Li, S.-C., Manu, J., Menon, A., Pang, H.-W., Wu, H., Shirish, Z.A., Zheng, J.W., Coley, C.W., Green, W.H. and Greenman, K.P. (2026). Chemprop v2: An Efficient, Modular Machine Learning Package for Chemical Property Prediction. J. Chem. Inf. Model., [online] 66(1), pp.28–33. doi:10.1021/acs.jcim.5c02332.
+4) Mansouri, K., Grulke, C.M., Judson, R.S. and Williams, A.J. (2018). OPERA models for predicting physicochemical properties and environmental fate endpoints. Journal of Cheminformatics, [online] 10(1). doi:10.1186/s13321-018-0263-1.
