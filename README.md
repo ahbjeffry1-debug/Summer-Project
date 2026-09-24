@@ -1,6 +1,6 @@
-# Molecular Property Prediction — Results
+# Using Machine Learning To Predict Formulation Properties — Results
 
-This page presents additional results from the molecular property prediction project.
+This page presents additional results from the project.
 
 ---
 ## Individual Property Prediction Results
@@ -13,7 +13,7 @@ The figure below shows the performance of the multiproperty Graph Neural Network
 
 ![Multiproperty Prediction](RESULTS/Multiproperty%20Prediction.png)
 
-## Boiling Point
+## Final Model - Boiling Point
 
 ### Model Performance
 
@@ -27,7 +27,7 @@ The figure below compares the reference boiling point values with the values pre
 
 ---
 
-## LogP
+## Final Model - LogP
 
 ### Model Performance
 
@@ -41,7 +41,7 @@ The figure below compares the reference LogP values with the values predicted by
 
 ---
 
-## Melting Point
+## Final Model - Melting Point
 
 ### Model Performance
 
