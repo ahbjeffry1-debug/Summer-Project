@@ -13,7 +13,7 @@ The figure below shows the performance of the multiproperty Graph Neural Network
 
 ![Multiproperty Prediction](RESULTS/Multiproperty%20Prediction.png)
 
-## Final Model - Boiling Point
+## Final Model Results - Boiling Point
 
 ### Model Performance
 
@@ -27,7 +27,7 @@ The figure below compares the reference boiling point values with the values pre
 
 ---
 
-## Final Model - LogP
+## Final Model Results - LogP
 
 ### Model Performance
 
@@ -41,7 +41,7 @@ The figure below compares the reference LogP values with the values predicted by
 
 ---
 
-## Final Model - Melting Point
+## Final Model Results - Melting Point
 
 ### Model Performance
 
