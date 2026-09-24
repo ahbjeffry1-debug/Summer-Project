@@ -6,6 +6,8 @@ This page presents additional results from the molecular property prediction pro
 ## Individual Property Prediction Results
 The figure below shows the performance of the initial individual Graph Neural Network models on each property.
 
+![Individual Property Prediction](RESULTS/Individual Property Prediction.png)
+
 ## Boiling Point
 
 ### Model Performance
