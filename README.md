@@ -8,6 +8,11 @@ The figure below shows the performance of the initial individual Graph Neural Ne
 
 ![Individual Property Prediction](RESULTS/Individual%20Property%20Prediction.png)
 
+## Multiproperty Prediction Results
+The figure below shows the performance of the multiproperty Graph Neural Network model on each property tested.
+
+![Multiproperty Prediction](RESULTS/Multiproperty%20Prediction.png)
+
 ## Boiling Point
 
 ### Model Performance
